@@ -1,4 +1,5 @@
 # Key Club Database CLI
+<<<<<<< 644c6f7333dfc147ae038bd0c31064a95e60fba0
 
 The North Bergen High School chapter of [Key Club International](https://www.keyclub.org/) needs you to automate
 its tracking of student volunteer hours. Additionally, the club needs to submit monthly and annual reports summarizing their service to the community. You will design the database and implement a simple command line interface for adding data and generating reports.
@@ -24,3 +25,5 @@ The database contains the following report views:
 - `ind_all_time`: A view that totals the service hours performed by the club, grouped by student
 - `officer_all_time`: A view that totals the service hours performed by the club, grouped by officer
 - `top_ten_all_time`: A view that shows the top ten volunteers of all time
+=======
+>>>>>>> Add title to instructions.md
