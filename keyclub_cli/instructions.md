@@ -1,4 +1,5 @@
 # Key Club Database CLI
+<<<<<<< ba4dbed027c6e41a199881df02c0342076c5b10a
 <<<<<<< 644c6f7333dfc147ae038bd0c31064a95e60fba0
 
 The North Bergen High School chapter of [Key Club International](https://www.keyclub.org/) needs you to automate
@@ -27,3 +28,16 @@ The database contains the following report views:
 - `top_ten_all_time`: A view that shows the top ten volunteers of all time
 =======
 >>>>>>> Add title to instructions.md
+=======
+
+The North Bergen High School chapter of [Key Club International](https://www.keyclub.org/) needs you to automate
+its tracking of student volunteer hours. Additionally the club needs to submit monthly and annual reports summarizing their service to the community. You will design the database and implement a simple command line interface for adding data and generating reports.
+
+## Database
+`keyclub.sqlite` is a [SQLite](https://sqlite.org) database that will consist of three tables:
+* students
+* events
+* service
+
+Here's the schema for our database:
+>>>>>>> Add db schema image into /img folder
